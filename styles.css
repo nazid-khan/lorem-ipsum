@@ -209,9 +209,6 @@ input {
   margin: 0 0.5rem;
   font-size: 1.25rem;
 }
-/* button {
-  background: var(--clr-primary-10);
-} */
  button {
   background: var(--clr-primary-10);
  }
